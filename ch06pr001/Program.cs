@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("请输入您的分数");
+            Console.WriteLine("请输入您的分数111");
             int a = Convert.ToInt32(Console.ReadLine());
             if (a >= 0&&a<60)
             {
