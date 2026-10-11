@@ -1,0 +1,86 @@
+<Solution>
+  <Folder Name="/ch03ex/">
+    <Project Path="ch03ex010/ch03ex010.csproj" />
+  </Folder>
+  <Folder Name="/ch03pr/">
+    <Project Path="ch03pr001/ch03pr001.csproj" />
+    <Project Path="ch03pr002/ch03pr002.csproj" />
+    <Project Path="ch03pr003/ch03pr003.csproj" />
+    <Project Path="ch03pr004/ch03pr004.csproj" Id="fb3b142f-c7ba-432d-8835-7342a59f6f6b" />
+    <Project Path="ch03pr005/ch03pr005.csproj" Id="725e14fe-23b2-4cf3-886c-108202abf24a" />
+    <Project Path="ch03pr006/ch03pr006.csproj" Id="26789f8b-38ce-434f-8784-dccd71f43934" />
+    <Project Path="ch03pr007/ch03pr007.csproj" Id="edd1cf78-ad5d-4c45-b0c1-d32b4f77e2e1" />
+    <Project Path="ch03pr008/ch03pr008.csproj" Id="642756c4-ceaf-413a-9bc5-6e5f673c3b33" />
+    <Project Path="ch03pr009/ch03pr009.csproj" Id="95ac6dd3-3bbe-4290-8a34-78d39ea4ca44" />
+  </Folder>
+  <Folder Name="/ch04ex/">
+    <Project Path="ch04ex001/ch04ex001.csproj" Id="e9945e17-22bf-48fd-86da-6d71f52fac0d" />
+    <Project Path="ch04ex002/ch04ex002.csproj" Id="002d976c-a25b-48c6-83dc-0c293883f3b8" />
+    <Project Path="ch04ex003/ch04ex003.csproj" Id="d06813dd-cb2c-4eab-bcc2-963d3724493f" />
+    <Project Path="ch04ex004/ch04ex004.csproj" Id="e2ed93db-bf18-48ca-9e57-1711bc4b9aaf" />
+    <Project Path="ch04ex005/ch04ex005.csproj" Id="dd6c0533-30c5-483f-b95e-854c58d4eed3" />
+    <Project Path="ch04ex006/ch04ex006.csproj" Id="26fcb222-c9cc-43a1-afd9-4d96150a0ce7" />
+    <Project Path="ch04ex007/ch04ex007.csproj" Id="118c8dc4-5a0b-416e-ad52-6f9cb0d18e60" />
+    <Project Path="ch04ex008/ch04ex008.csproj" Id="99219da9-218f-4504-8ec5-2ce573d1b4f1" />
+    <Project Path="ch04ex009/ch04ex009.csproj" Id="a723fb64-5d0a-449b-a1d9-619e9661dd0a" />
+  </Folder>
+  <Folder Name="/ch04pr/">
+    <Project Path="ch04pr001/ch04pr001.csproj" Id="e3360d64-34eb-4ca1-a470-3e7c736d2dae" />
+    <Project Path="ch04pr002/ch04pr002.csproj" Id="9e18300e-1ede-49f5-8433-8513be6c1e7f" />
+    <Project Path="ch04pr003/ch04pr003.csproj" Id="c2416f1a-77f2-4549-a2c9-d3b9c98ffc99" />
+    <Project Path="ch04pr004/ch04pr004.csproj" Id="18e71a77-f195-4e68-bb25-482fed27ccbb" />
+    <Project Path="ch04pr005/ch04pr005.csproj" Id="f8542372-9982-41ae-9a63-1faed31df6b6" />
+    <Project Path="ch04pr006/ch04pr006.csproj" Id="9ad68276-49b8-44b8-b568-878deebe46bf" />
+    <Project Path="ch04pr007/ch04pr007.csproj" Id="e8f58590-a99d-4535-bfa2-35420bb5a787" />
+  </Folder>
+  <Folder Name="/ch05ex/">
+    <Project Path="ch05ex001/ch05ex001.csproj" Id="00403ec1-a829-49c0-a688-c9f8a280a8a6" />
+    <Project Path="ch05ex002/ch05ex002.csproj" Id="90f9288b-f568-4385-b593-e4ae93d8a93f" />
+    <Project Path="ch05ex003/ch05ex003.csproj" Id="9afc226e-a72a-4dca-bc97-41a3b51c79ab" />
+    <Project Path="ch05ex004/ch05ex004.csproj" Id="3dcdac56-c555-4544-a0c9-def07cae0f2a" />
+    <Project Path="ch05ex005/ch05ex005.csproj" Id="cd533d29-865c-43a2-b49d-ccbc48443cd4" />
+    <Project Path="ch05ex006/ch05ex006.csproj" Id="65911c6d-4ad3-4aaa-9b0a-cde3c70280c3" />
+    <Project Path="ch05ex007/ch05ex007.csproj" Id="0c740ce0-1f27-467e-921d-bb425cb0fb19" />
+    <Project Path="ch05ex008/ch05ex008.csproj" Id="61fc2d73-6692-4839-ac60-f9138d7e8452" />
+    <Project Path="ch05ex009/ch05ex009.csproj" Id="b0db252d-0e11-4ff7-9887-289dcb8c9b0f" />
+    <Project Path="ch05ex010/ch05ex010.csproj" Id="0805ce49-97f3-4184-b1c7-644ee8bfc999" />
+    <Project Path="ch05ex011/ch05ex011.csproj" Id="d94c85df-c2d8-4a4e-a543-b9f7c851b04c" />
+    <Project Path="ch05ex012/ch05ex012.csproj" Id="32ee90dd-5519-45cd-b871-35929c49d788" />
+    <Project Path="ch05ex013/ch05ex013.csproj" Id="cb7dcb4b-00d5-4849-94f2-fd7856bd454e" />
+    <Project Path="ch05ex014/ch05ex014.csproj" Id="7c190902-e8ed-4f4f-b7f9-bcc6905365ad" />
+    <Project Path="ch05ex015/ch05ex015.csproj" Id="510b5075-1b9d-4845-a2ba-2af1e2a9c1af" />
+    <Project Path="ch05ex016/ch05ex016.csproj" Id="4dd801db-bd09-49c7-872e-f92a0f1e33c5" />
+    <Project Path="ch05ex017/ch05ex017.csproj" Id="7e7d296f-9608-4f84-aeae-4f38b1be407a" />
+    <Project Path="ch05ex018/ch05ex018.csproj" Id="b940abf5-5438-4979-affd-70ca617b6383" />
+    <Project Path="ch05ex019/ch05ex019.csproj" Id="6f6d3477-cecb-499a-9a95-994e2bc40bde" />
+  </Folder>
+  <Folder Name="/ch05pr/">
+    <Project Path="ch05pr001/ch05pr001.csproj" Id="3317ebae-051a-45cc-a323-6c23993e2126" />
+    <Project Path="ch05pr002/ch05pr002.csproj" Id="6f9ffdff-01b1-45c1-9d54-c95da6619ce7" />
+    <Project Path="ch05pr003/ch05pr003.csproj" Id="146a863a-fb38-407d-8b0f-70840f8fd05c" />
+    <Project Path="ch05pr004/ch05pr004.csproj" Id="0e826e0b-4a1d-4645-8aab-2c87f4f7439a" />
+    <Project Path="ch05pr005/ch05pr005.csproj" Id="8758001e-f3f3-4516-8c28-7cd74a28766a" />
+    <Project Path="ch05pr006/ch05pr006.csproj" Id="3bc59e51-41e2-43cf-b2d9-d013897c631e" />
+    <Project Path="ch05pr007/ch05pr007.csproj" Id="bcf05a32-aa5a-4183-ad6a-0ca5519ee5ce" />
+    <Project Path="ch05pr008/ch05pr008.csproj" Id="ef26fdd9-fd31-4551-aeb3-8ecea3be6315" />
+    <Project Path="ch05pr009/ch05pr009.csproj" Id="7ff0d56e-0ba9-4fa7-9111-686ab4811f7e" />
+    <Project Path="ch05pr010/ch05pr010.csproj" Id="8755ff76-cc22-4c90-8b66-b3f3bc29739a" />
+  </Folder>
+  <Folder Name="/ch06ex/">
+    <Project Path="ch06ex001/ch06ex001.csproj" Id="feba5f89-c60b-49ec-a7cc-02b3f0b8133b" />
+    <Project Path="ch06ex002/ch06ex002.csproj" Id="9a8c9f21-4c2f-4b9f-8400-10f3475959b6" />
+    <Project Path="ch06ex003/ch06ex003.csproj" Id="3b353ed5-7e78-4f0b-8fa8-c572882e09ac" />
+    <Project Path="ch06ex004/ch06ex004.csproj" Id="7f15bfa1-e602-4b0f-be90-19d363fb0258" />
+    <Project Path="ch06ex005/ch06ex005.csproj" Id="36725d55-aaec-48c3-9f2b-b721ab85da04" />
+    <Project Path="ch06ex006/ch06ex006.csproj" Id="d12b984d-f08d-4149-a3db-60d2e49bc631" />
+    <Project Path="ch06ex007/ch06ex007.csproj" Id="b4bb21bb-19f0-4509-ba99-f86b90ee86fb" />
+  </Folder>
+  <Folder Name="/ch06pr/">
+    <Project Path="ch06pr001/ch06pr001.csproj" Id="4871789c-6b02-4608-8340-88175edc3126" />
+    <Project Path="ch06pr002/ch06pr002.csproj" Id="a91ff193-8fb3-49bf-b1b6-738f714799f0" />
+    <Project Path="ch06pr003/ch06pr003.csproj" Id="22946850-f165-4317-98c8-e944883d7172" />
+    <Project Path="ch06pr004/ch06pr004.csproj" Id="116f6bc7-a2fc-4e67-b870-a620db829d7b" />
+    <Project Path="ch06pr005/ch06pr005.csproj" Id="5d4bc379-0d89-460b-a5f3-b33459cca527" />
+    <Project Path="ch06pr006/ch06pr006.csproj" Id="651d207b-7db6-4512-8a50-cd643c9601b5" />
+  </Folder>
+</Solution>

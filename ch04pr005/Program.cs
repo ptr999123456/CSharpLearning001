@@ -1,0 +1,13 @@
+﻿namespace ch04pr005
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int days = 70 * 365;
+            Console.WriteLine(" 每天要走 {0:F2} 公里", 80500.0 / days);
+            Console.WriteLine(" 每年要走 {0:F2} 公里", 80500.0 / 70);
+            Console.ReadLine();
+        }
+    }
+}

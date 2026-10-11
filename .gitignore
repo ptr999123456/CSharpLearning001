@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/trunk/FXPRJ.T8000.FxIdentity/bin
+/trunk/FXPRJ.T8000.FxIdentity/obj
+/trunk/FXPRJ.T8103.CMN.Business.FxEFModels/bin
+/trunk/FXPRJ.T8103.CMN.Business.FxEFModels/obj
+
+# Hidden directories and build output directories at any level
+.*/
+bin/
+obj/
+
+# Node.js dependencies at any level
+node_modules/
+
+# Track the solution's NuGet configuration and tools
+!/trunk/.nuget/
+
+# Generated NuGet packages
+/trunk/PackageOutput/
